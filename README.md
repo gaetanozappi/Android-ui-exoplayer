@@ -8,7 +8,7 @@
 [![Issue Stats](https://img.shields.io/issuestats/i/github/gaetanozappi/Android-ui-exoplayer.svg?style=flat&colorB=44cc11)](http://github.com/gaetanozappi/Android-ui-exoplayer/issues)
 [![github license](https://img.shields.io/github/license/gaetanozappi/Android-ui-exoplayer.svg)]()
 
-![PNG](screenshot/Android-ui-exoplayer.gif)
+![](screenshot/exoplayer-ui.gif)
 
 -   [License](#-license)
 
